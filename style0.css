@@ -69,6 +69,39 @@ p
 
 
 
+@media (max-width:270px) {
+
+   .head_title h1 
+   {
+    font-size: 2rem;
+   }
+}
+
+
+/* 
+@media (min-width:200px) {
+    .main_box{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media (min-width:430px) {
+    .main_box{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width:700px) {
+    .main_box{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (min-width:1000px) {
+    .main_box{
+        grid-template-columns: repeat(4, 1fr);
+    }
+}  */
+
 
 
 
